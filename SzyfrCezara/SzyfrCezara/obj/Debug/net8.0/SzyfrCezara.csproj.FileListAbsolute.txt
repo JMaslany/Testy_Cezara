@@ -1,0 +1,14 @@
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\bin\Debug\net8.0\SzyfrCezara.exe
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\bin\Debug\net8.0\SzyfrCezara.deps.json
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\bin\Debug\net8.0\SzyfrCezara.runtimeconfig.json
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\bin\Debug\net8.0\SzyfrCezara.dll
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\bin\Debug\net8.0\SzyfrCezara.pdb
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.dll
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\refint\SzyfrCezara.dll
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.pdb
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\SzyfrCezara.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\testpapka\SzyfrCezara\SzyfrCezara\obj\Debug\net8.0\ref\SzyfrCezara.dll
